@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github respository files](https://your-solution-url.com)
-- Live Site URL: [Interactive rating component solution](https://your-live-site-url.com)
+- Solution URL: [Github respository files](https://github.com/EJMK18/FEM-nft-preview-card-component)
+- Live Site URL: [NFT card preview component](https://ejmk18.github.io/FEM-nft-preview-card-component/)
 
 ## My process
 
